@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/totalvente/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/totalvente/static/js/main.b49982a6.chunk.js",
+    "main.js.map": "/totalvente/static/js/main.b49982a6.chunk.js.map",
+    "runtime-main.js": "/totalvente/static/js/runtime-main.455954ca.js",
+    "runtime-main.js.map": "/totalvente/static/js/runtime-main.455954ca.js.map",
+    "static/css/2.af9592cd.chunk.css": "/totalvente/static/css/2.af9592cd.chunk.css",
+    "static/js/2.b49ef944.chunk.js": "/totalvente/static/js/2.b49ef944.chunk.js",
+    "static/js/2.b49ef944.chunk.js.map": "/totalvente/static/js/2.b49ef944.chunk.js.map",
+    "static/js/3.4ca99f26.chunk.js": "/totalvente/static/js/3.4ca99f26.chunk.js",
+    "static/js/3.4ca99f26.chunk.js.map": "/totalvente/static/js/3.4ca99f26.chunk.js.map",
+    "index.html": "/totalvente/index.html",
+    "static/css/2.af9592cd.chunk.css.map": "/totalvente/static/css/2.af9592cd.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/totalvente/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b49ef944.chunk.js.LICENSE.txt": "/totalvente/static/js/2.b49ef944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.455954ca.js",
+    "static/css/2.af9592cd.chunk.css",
+    "static/js/2.b49ef944.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b49982a6.chunk.js"
+  ]
+}
